@@ -1,0 +1,1544 @@
+{
+    "siren": "552043754",
+    "siren_formate": "552 043 754",
+    "diffusable": true,
+    "nom_entreprise": "POTEL ET CHABOT S A",
+    "personne_morale": true,
+    "denomination": "POTEL ET CHABOT S A",
+    "sigle": null,
+    "nom": null,
+    "prenom": null,
+    "sexe": null,
+    "siege": {
+        "siret": "55204375400019",
+        "siret_formate": "552 043 754 00019",
+        "diffusion_partielle": false,
+        "nic": "00019",
+        "numero_voie": 3,
+        "indice_repetition": null,
+        "type_voie": "RUE",
+        "libelle_voie": "DE CHAILLOT",
+        "complement_adresse": null,
+        "adresse_ligne_1": "3 RUE DE CHAILLOT",
+        "adresse_ligne_2": null,
+        "code_postal": "75016",
+        "ville": "PARIS",
+        "pays": "France",
+        "code_pays": "FR",
+        "latitude": 48.866053,
+        "longitude": 2.295908,
+        "code_naf": "56.21Z",
+        "libelle_code_naf": "Services des traiteurs",
+        "date_de_creation": null,
+        "etablissement_employeur": true,
+        "effectif": "Entre 100 et 199 salariés",
+        "effectif_min": 100,
+        "effectif_max": 199,
+        "tranche_effectif": "22",
+        "annee_effectif": 2021,
+        "etablissement_cesse": false,
+        "date_cessation": null,
+        "domiciliation": null,
+        "siege": true,
+        "enseigne": null,
+        "nom_commercial": "POTEL  CHABOT RES"
+    },
+    "rnm": null,
+    "code_naf": "56.21Z",
+    "libelle_code_naf": "Services des traiteurs",
+    "domaine_activite": "Restauration",
+    "objet_social": "ACHAT PREPARATION ET VENTE SOIT PAR CONSOMMATION SUR PLACE SOIT PAR LA LIVRAISON A DOMICILE DE TOUS PRODUITS ALIMENTAIRES NOTAMMENT DE TOUTES SORTES DE PATISSERIES DE CONFISERIES DE GLACES ET DE BOISSONS DE TOUTE NATURE ACHAT VENTE LOCATION DE TOUS ACCESSOIRES DE TABLE ET MATERIEL DE RECEPTION EXPLOITATION DE TOUTES SALLES ET SALONS POUR REUNIONS SOIREES ETC...",
+    "conventions_collectives": [
+        {
+            "nom": "Convention collective nationale des hôtels, cafés, restaurants (HCR)",
+            "idcc": 1979,
+            "pourcentage": null,
+            "confirmee": true
+        }
+    ],
+    "date_creation": "1955-01-01",
+    "date_creation_formate": "01/01/1955",
+    "entreprise_cessee": false,
+    "date_cessation": null,
+    "date_cessation_formate": null,
+    "associe_unique": false,
+    "categorie_juridique": "5710",
+    "forme_juridique": "SAS, société par actions simplifiée",
+    "forme_exercice": "Commerciale",
+    "entreprise_employeuse": true,
+    "societe_a_mission": false,
+    "effectif": "Entre 250 et 499 salariés",
+    "effectif_min": 250,
+    "effectif_max": 499,
+    "annee_effectif": 2021,
+    "tranche_effectif": "32",
+    "annee_tranche_effectif": 2021,
+    "capital": 355659,
+    "capital_actuel_si_variable": null,
+    "devise_capital": "Euros",
+    "capital_formate": "355 659,00 €",
+    "date_cloture_exercice": "31 Décembre",
+    "date_cloture_exercice_exceptionnelle": null,
+    "prochaine_date_cloture_exercice": "2024-12-31",
+    "prochaine_date_cloture_exercice_formate": "31/12/2024",
+    "economie_sociale_solidaire": false,
+    "duree_personne_morale": "64",
+    "derniere_mise_a_jour_sirene": "2024-04-15",
+    "derniere_mise_a_jour_rcs": "2024-05-18",
+    "derniere_mise_a_jour_rne": "2024-05-18",
+    "dernier_traitement": "2024-03-22",
+    "date_debut_activite": "1955-03-21",
+    "date_debut_premiere_activite": "1900-01-01",
+    "statut_rcs": "Inscrit",
+    "greffe": "PARIS",
+    "code_greffe": "7501",
+    "numero_rcs": "552 043 754 R.C.S. Paris",
+    "date_immatriculation_rcs": "1955-03-21",
+    "date_premiere_immatriculation_rcs": null,
+    "date_radiation_rcs": null,
+    "statut_rne": "Inscrit",
+    "date_immatriculation_rne": "1955-03-21",
+    "date_radiation_rne": null,
+    "numero_tva_intracommunautaire": "FR28552043754",
+    "etablissement": {
+        "siret": "55204375400019",
+        "siret_formate": "552 043 754 00019",
+        "diffusion_partielle": false,
+        "nic": "00019",
+        "numero_voie": 3,
+        "indice_repetition": null,
+        "type_voie": "RUE",
+        "libelle_voie": "DE CHAILLOT",
+        "complement_adresse": null,
+        "adresse_ligne_1": "3 RUE DE CHAILLOT",
+        "adresse_ligne_2": null,
+        "code_postal": "75016",
+        "ville": "PARIS",
+        "pays": "France",
+        "code_pays": "FR",
+        "latitude": 48.866053,
+        "longitude": 2.295908,
+        "code_naf": "56.21Z",
+        "libelle_code_naf": "Services des traiteurs",
+        "etablissement_employeur": true,
+        "effectif": "Entre 100 et 199 salariés",
+        "effectif_min": 100,
+        "effectif_max": 199,
+        "tranche_effectif": "22",
+        "annee_effectif": 2021,
+        "date_de_creation": null,
+        "etablissement_cesse": false,
+        "date_cessation": null,
+        "domiciliation": null,
+        "siege": true,
+        "enseigne": null,
+        "nom_commercial": null
+    },
+    "finances": [],
+    "representants": [
+        {
+            "qualite": "Président",
+            "qualites": [
+                "Président"
+            ],
+            "personne_morale": true,
+            "date_prise_de_poste": "2017-05-30",
+            "nom_complet": "FINANCIERE LOUIS",
+            "denomination": "FINANCIERE LOUIS",
+            "siren": "500015607",
+            "forme_juridique": "SAS, société par actions simplifiée",
+            "adresse_ligne_1": "3 rue de Chaillot",
+            "adresse_ligne_2": null,
+            "adresse_ligne_3": null,
+            "code_postal": "75016",
+            "ville": "Paris",
+            "pays": "FRANCE",
+            "code_pays": "FR"
+        },
+        {
+            "qualite": "Commissaire aux comptes titulaire",
+            "qualites": [
+                "Commissaire aux comptes titulaire"
+            ],
+            "personne_morale": true,
+            "date_prise_de_poste": "2005-08-12",
+            "nom_complet": "PRICEWATERHOUSECOOPERS AUDIT",
+            "denomination": "PRICEWATERHOUSECOOPERS AUDIT",
+            "siren": "672006483",
+            "forme_juridique": "SA à conseil d'administration (s.a.i.)",
+            "adresse_ligne_1": "63 rue de Villiers",
+            "adresse_ligne_2": null,
+            "adresse_ligne_3": null,
+            "code_postal": "92200",
+            "ville": "Neuilly Sur Seine",
+            "pays": "FRANCE",
+            "code_pays": "FR"
+        },
+        {
+            "qualite": "Commissaire aux comptes titulaire",
+            "qualites": [
+                "Commissaire aux comptes titulaire"
+            ],
+            "personne_morale": true,
+            "date_prise_de_poste": "2020-05-25",
+            "nom_complet": "RSM PARIS",
+            "denomination": "RSM PARIS",
+            "siren": "792111783",
+            "forme_juridique": "SAS, société par actions simplifiée",
+            "adresse_ligne_1": "26 rue Cambacérès",
+            "adresse_ligne_2": null,
+            "adresse_ligne_3": null,
+            "code_postal": "75008",
+            "ville": "Paris",
+            "pays": "FRANCE",
+            "code_pays": "FR"
+        }
+    ],
+    "beneficiaires_effectifs": [
+        {
+            "date_greffe": null,
+            "type": null,
+            "nom": "Nahai",
+            "nom_usage": null,
+            "prenom": "Amir",
+            "prenom_usuel": "Amir",
+            "pseudonyme": null,
+            "sexe": "M",
+            "nationalite": "Américaine (Etats Unis)",
+            "code_nationalite": "US",
+            "date_de_naissance_formatee": "04/1978",
+            "date_de_naissance_complete_formatee": null,
+            "ville_de_naissance": null,
+            "pays_de_naissance": null,
+            "code_pays_de_naissance": null,
+            "adresse_ligne_1": null,
+            "adresse_ligne_2": null,
+            "adresse_ligne_3": null,
+            "code_postal": null,
+            "ville": null,
+            "pays": null,
+            "code_pays": null,
+            "pourcentage_parts": 0,
+            "pourcentage_parts_directes": 0,
+            "pourcentage_parts_indirectes": 0,
+            "pourcentage_parts_vocation_titulaire": null,
+            "details_parts_directes": null,
+            "details_parts_indirectes": null,
+            "details_parts_vocation_titulaire": null,
+            "pourcentage_votes": 0,
+            "pourcentage_votes_directs": 0,
+            "pourcentage_votes_indirect": 0,
+            "details_votes_directs": null,
+            "details_votes_indirects": null,
+            "details_societe_de_gestion": null,
+            "detention_pouvoir_decision_ag": false,
+            "detention_pouvoir_nom_membre_conseil_administration": false,
+            "detention_autres_moyens_controle": false,
+            "beneficiaire_representant_legal": true,
+            "representant_legal_placement_sans_gestion_delegation": false
+        }
+    ],
+    "depots_actes": [
+        {
+            "date_depot": "2024-01-18",
+            "date_depot_formate": "18/01/2024",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 18-01-2024.pdf",
+            "token": "Uk5FQTU1MjA0Mzc1NDY1ZDRjY2I1MThkMDYxYmFlYTA0NTY2NQ",
+            "actes": [
+                {
+                    "type": "Acte sous seing privé",
+                    "decision": "Changement de président",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2022-08-04",
+            "date_depot_formate": "04/08/2022",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 04-08-2022.pdf",
+            "token": "QWdVVDc5NnZHUzUxeF9DMDAyMkExMDAxTDI1NTYwN0QyMDIyMDgwOUgxODIzMDlUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Décision(s) des associés",
+                    "decision": "Refonte des statuts",
+                    "date_acte": "2022-07-28",
+                    "date_acte_formate": "28/07/2022"
+                },
+                {
+                    "type": "Décision(s) des associés",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2022-07-28",
+                    "date_acte_formate": "28/07/2022"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2022-07-28",
+                    "date_acte_formate": "28/07/2022"
+                }
+            ]
+        },
+        {
+            "date_depot": "2021-06-14",
+            "date_depot_formate": "14/06/2021",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 14-06-2021.pdf",
+            "token": "QUtIUGhqaXBoeUxkNF9DMDAyMkExMDAxTDA3MzMyNUQyMDIxMDYxOUgxOTQzMjVUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Décision(s) du président",
+                    "decision": "Augmentation du capital social",
+                    "date_acte": "2021-05-27",
+                    "date_acte_formate": "27/05/2021"
+                },
+                {
+                    "type": "Décision(s) du président",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2021-05-27",
+                    "date_acte_formate": "27/05/2021"
+                },
+                {
+                    "type": "Procès-verbal",
+                    "decision": "Changement de président",
+                    "date_acte": "2021-05-27",
+                    "date_acte_formate": "27/05/2021"
+                },
+                {
+                    "type": "Procès-verbal",
+                    "decision": "Décision d'augmentation",
+                    "date_acte": "2021-05-27",
+                    "date_acte_formate": "27/05/2021"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2021-05-27",
+                    "date_acte_formate": "27/05/2021"
+                }
+            ]
+        },
+        {
+            "date_depot": "2020-11-10",
+            "date_depot_formate": "10/11/2020",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 10-11-2020.pdf",
+            "token": "QTRHUWJQcnRoTDNoRl9DMDAyMkExMDAxTDMyNTcxNkQyMDIwMTExNUgxOTQ4NDNUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de commissaire aux comptes titulaire",
+                    "date_acte": "2020-05-25",
+                    "date_acte_formate": "25/05/2020"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Fin de mission de commissaire aux comptes suppléant",
+                    "date_acte": "2020-05-25",
+                    "date_acte_formate": "25/05/2020"
+                }
+            ]
+        },
+        {
+            "date_depot": "2019-05-31",
+            "date_depot_formate": "31/05/2019",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 31-05-2019.pdf",
+            "token": "QUJ2RTlKdHBYOTZvdF9DMDAyMkExMDAxTDQxNDU2NEQyMDE5MDYwNkgwNDMyNTFUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2017-04-21",
+                    "date_acte_formate": "21/04/2017"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Prorogation du délai de réunion de l'A.G. chargée d'approuver les comptes",
+                    "date_acte": "2017-04-21",
+                    "date_acte_formate": "21/04/2017"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2017-04-21",
+                    "date_acte_formate": "21/04/2017"
+                }
+            ]
+        },
+        {
+            "date_depot": "2018-06-04",
+            "date_depot_formate": "04/06/2018",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 04-06-2018.pdf",
+            "token": "QXZ1MmJURkVLdzBGcV9DMDAyMkExMDAxTDE1Mjc0NUQyMDE4MDYyMUgwMTExMzdUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de commissaire aux comptes titulaire et suppléant",
+                    "date_acte": "2018-04-26",
+                    "date_acte_formate": "26/04/2018"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2018-04-26",
+                    "date_acte_formate": "26/04/2018"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2018-04-26",
+                    "date_acte_formate": "26/04/2018"
+                }
+            ]
+        },
+        {
+            "date_depot": "2017-05-30",
+            "date_depot_formate": "30/05/2017",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 30-05-2017.pdf",
+            "token": "QXA2ZVpnZFJLZXNPUl9DMDAyMkExMDAxTDE1MjI1NkQyMDE3MDYxOUgxMDIzMjFUUElKVEVTMDAzUERCT1I",
+            "actes": [
+                {
+                    "type": "Procès-verbal",
+                    "decision": "Changement de président",
+                    "date_acte": "2017-05-18",
+                    "date_acte_formate": "18/05/2017"
+                }
+            ]
+        },
+        {
+            "date_depot": "2014-06-13",
+            "date_depot_formate": "13/06/2014",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 13-06-2014.pdf",
+            "token": "QTMxODc2NDQ1MDAwMDAwX0MwMDIyQTEwMDFMMDIzMzE5RDIwMTQwNzAxSDA5NTgwM1RQSUpURVMwMDNQREJPUg",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2010-05-14",
+            "date_depot_formate": "14/05/2010",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 14-05-2010.pdf",
+            "token": "QUpuQnJIT0VHZzc1bl9SQUNUMl81NTIwNDM3NTRfNzUwMV8xOTU1QjA0Mzc1XzIwMTBfNDE2MDgwMQ",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2009-08-10",
+            "date_depot_formate": "10/08/2009",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 10-08-2009.pdf",
+            "token": "QUFnbjVPeDB4WHlOSV9SQUNUMDkwMDk5MDkyNg",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2009-08-10",
+            "date_depot_formate": "10/08/2009",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 10-08-2009.pdf",
+            "token": "QW5GQTh5QnQzRVM2Ul9SQUNUMl81NTIwNDM3NTRfNzUwMV8xOTU1QjA0Mzc1XzIwMDlfNjkwODgwMw",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2009-08-10",
+            "date_depot_formate": "10/08/2009",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 10-08-2009.pdf",
+            "token": "QXZXNzlBYjFGN2RlSl9SQUNUMl81NTIwNDM3NTRfNzUwMV8xOTU1QjA0Mzc1XzIwMDlfNjkwODgwMQ",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2009-08-10",
+            "date_depot_formate": "10/08/2009",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 10-08-2009.pdf",
+            "token": "QXBWVElXdVhXc1RiN19SQUNUMl81NTIwNDM3NTRfNzUwMV8xOTU1QjA0Mzc1XzIwMDlfNjkwODgwMg",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2009-02-06",
+            "date_depot_formate": "06/02/2009",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 06-02-2009.pdf",
+            "token": "QVY5d1FEbFEzYm96SF9SQUNUMDkwMDQyOTA0OA",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2008-06-09",
+            "date_depot_formate": "09/06/2008",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 09-06-2008.pdf",
+            "token": "QTBFYjRXeHNTaWVsOF9SQUNUMDgwMDAzMjU4MA",
+            "actes": [
+                {
+                    "type": "Document inconnu",
+                    "decision": null,
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "2008-01-08",
+            "date_depot_formate": "08/01/2008",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 08-01-2008.pdf",
+            "token": "QTlEWEtMWklSam9yN19SQUNUMDgwMDU0MjE4Ng",
+            "actes": [
+                {
+                    "type": "Procès-verbal du conseil d'administration",
+                    "decision": "Changement de président",
+                    "date_acte": "2007-10-31",
+                    "date_acte_formate": "31/10/2007"
+                },
+                {
+                    "type": "Procès-verbal du conseil d'administration",
+                    "decision": "Changement(s) d'administrateur(s)",
+                    "date_acte": "2007-10-31",
+                    "date_acte_formate": "31/10/2007"
+                }
+            ]
+        },
+        {
+            "date_depot": "2007-07-03",
+            "date_depot_formate": "03/07/2007",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 03-07-2007.pdf",
+            "token": "QXNNS20wUmlaUXR3M19SQUNUMDcwMDI3MjE4OA",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2007-06-15",
+                    "date_acte_formate": "15/06/2007"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2007-06-15",
+                    "date_acte_formate": "15/06/2007"
+                }
+            ]
+        },
+        {
+            "date_depot": "2006-07-06",
+            "date_depot_formate": "06/07/2006",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 06-07-2006.pdf",
+            "token": "QWk5YjBKTTR3a1RERV9SQUNUMDYwMDA5MDE2NQ",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": null,
+                    "date_acte": "2006-06-12",
+                    "date_acte_formate": "12/06/2006"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": null,
+                    "date_acte": "2006-06-12",
+                    "date_acte_formate": "12/06/2006"
+                }
+            ]
+        },
+        {
+            "date_depot": "2005-08-12",
+            "date_depot_formate": "12/08/2005",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 12-08-2005.pdf",
+            "token": "QUxRRW1iRDI2RG5ZM19SQUNUMDUwMDA5ODkwMQ",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de commissaire aux comptes titulaire et suppléant",
+                    "date_acte": "2005-06-23",
+                    "date_acte_formate": "23/06/2005"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": "Divers",
+                    "date_acte": "2005-06-23",
+                    "date_acte_formate": "23/06/2005"
+                }
+            ]
+        },
+        {
+            "date_depot": "2004-11-02",
+            "date_depot_formate": "02/11/2004",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 02-11-2004.pdf",
+            "token": "QVl0eFZnVW02eFNhR19SQUNUMDQwMTE0NDYzOA",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de directeur général",
+                    "date_acte": "2004-09-09",
+                    "date_acte_formate": "09/09/2004"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de président DU CONSEIL D'ADMINISTRATION",
+                    "date_acte": "2004-09-09",
+                    "date_acte_formate": "09/09/2004"
+                }
+            ]
+        },
+        {
+            "date_depot": "2004-03-30",
+            "date_depot_formate": "30/03/2004",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 30-03-2004.pdf",
+            "token": "QXRuVGZ6eENadmQ0c19SQUNUMDQwMDM4NzY4Ng",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de directeur général",
+                    "date_acte": "2004-03-05",
+                    "date_acte_formate": "05/03/2004"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Démission(s) d'administrateur(s)",
+                    "date_acte": "2004-03-05",
+                    "date_acte_formate": "05/03/2004"
+                }
+            ]
+        },
+        {
+            "date_depot": "2003-09-12",
+            "date_depot_formate": "12/09/2003",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 12-09-2003.pdf",
+            "token": "QU10YTljeWJkMFZob19SQUNUMDMwMDE1MDkzOQ",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement(s) d'administrateur(s)",
+                    "date_acte": "2003-06-25",
+                    "date_acte_formate": "25/06/2003"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Renouvellement de mandat de directeur général",
+                    "date_acte": "2003-06-25",
+                    "date_acte_formate": "25/06/2003"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de président DU CONSEIL D'ADMINISTRATION",
+                    "date_acte": "2003-07-07",
+                    "date_acte_formate": "07/07/2003"
+                }
+            ]
+        },
+        {
+            "date_depot": "2002-11-20",
+            "date_depot_formate": "20/11/2002",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 20-11-2002.pdf",
+            "token": "QUhBOGJwZUJrYmhtMF9SQUNUMDIwMDQ2NjUwNg",
+            "actes": [
+                {
+                    "type": "Procès-verbal d'assemblée générale extraordinaire",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": "2002-10-23",
+                    "date_acte_formate": "23/10/2002"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": "Divers",
+                    "date_acte": "2002-10-23",
+                    "date_acte_formate": "23/10/2002"
+                }
+            ]
+        },
+        {
+            "date_depot": "2002-08-29",
+            "date_depot_formate": "29/08/2002",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 29-08-2002.pdf",
+            "token": "QXpYTkFWSzVKbDBHQl9SQUNUMDIwMDkwNjA3Mw",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Mise en harmonie des statuts DES STATUTS AVEC LA LOI DU 15/05/2001 DITE LOI NRE",
+                    "date_acte": "2002-06-20",
+                    "date_acte_formate": "20/06/2002"
+                },
+                {
+                    "type": "Procès-verbal du conseil d'administration",
+                    "decision": "Nomination de président directeur général",
+                    "date_acte": "2002-06-20",
+                    "date_acte_formate": "20/06/2002"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": "Divers",
+                    "date_acte": "2002-06-20",
+                    "date_acte_formate": "20/06/2002"
+                }
+            ]
+        },
+        {
+            "date_depot": "2001-07-20",
+            "date_depot_formate": "20/07/2001",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 20-07-2001.pdf",
+            "token": "QThNeEo0MnB1Z0dLdV9SQUNUMDEwMDY0NTY5Nw",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Conversion du capital en euros",
+                    "date_acte": "2001-06-12",
+                    "date_acte_formate": "12/06/2001"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Réduction du capital social",
+                    "date_acte": "2001-06-12",
+                    "date_acte_formate": "12/06/2001"
+                },
+                {
+                    "type": "Rapport du commissaire aux comptes",
+                    "decision": "Divers",
+                    "date_acte": "2001-05-05",
+                    "date_acte_formate": "05/05/2001"
+                },
+                {
+                    "type": "Statuts mis à jour",
+                    "decision": "Divers",
+                    "date_acte": "2001-06-12",
+                    "date_acte_formate": "12/06/2001"
+                }
+            ]
+        },
+        {
+            "date_depot": "1999-12-15",
+            "date_depot_formate": "15/12/1999",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 15-12-1999.pdf",
+            "token": "QWFZcHpETUNXUE0xWl9SQUNUMDAwMDAwMDMzNg",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement(s) d'administrateur(s)",
+                    "date_acte": "1999-10-11",
+                    "date_acte_formate": "11/10/1999"
+                }
+            ]
+        },
+        {
+            "date_depot": "1999-10-25",
+            "date_depot_formate": "25/10/1999",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 25-10-1999.pdf",
+            "token": "QThhRTFQdmduNnByR19SQUNUOTkwMDYzOTU3NQ",
+            "actes": [
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement(s) d'administrateur(s)",
+                    "date_acte": "1999-09-23",
+                    "date_acte_formate": "23/09/1999"
+                },
+                {
+                    "type": "Extrait de procès-verbal",
+                    "decision": "Changement de président",
+                    "date_acte": "1999-09-23",
+                    "date_acte_formate": "23/09/1999"
+                }
+            ]
+        },
+        {
+            "date_depot": "1998-09-23",
+            "date_depot_formate": "23/09/1998",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 23-09-1998.pdf",
+            "token": "QU9saWdHU0F2RTdYR19SQUNUOTgwMDU3MzQ3OA",
+            "actes": [
+                {
+                    "type": "Procès-verbal d'assemblée générale ordinaire",
+                    "decision": "DECES D'UN ADMINISTRATEUR",
+                    "date_acte": "1998-06-16",
+                    "date_acte_formate": "16/06/1998"
+                },
+                {
+                    "type": "Procès-verbal d'assemblée générale ordinaire",
+                    "decision": "Nomination(s) d'administrateur(s)",
+                    "date_acte": "1998-06-16",
+                    "date_acte_formate": "16/06/1998"
+                }
+            ]
+        },
+        {
+            "date_depot": "1997-07-09",
+            "date_depot_formate": "09/07/1997",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 09-07-1997.pdf",
+            "token": "QVoxclpSbTR1eGFTSF9SQUNUOTcwMDM3MDI3NQ",
+            "actes": [
+                {
+                    "type": "Procès-verbal d'assemblée générale ordinaire",
+                    "decision": "Changement(s) d'administrateur(s)",
+                    "date_acte": "1997-06-17",
+                    "date_acte_formate": "17/06/1997"
+                },
+                {
+                    "type": "Procès-verbal d'assemblée générale ordinaire",
+                    "decision": "Nomination de représentant permanent",
+                    "date_acte": "1997-06-17",
+                    "date_acte_formate": "17/06/1997"
+                }
+            ]
+        },
+        {
+            "date_depot": "1993-07-13",
+            "date_depot_formate": "13/07/1993",
+            "disponible": true,
+            "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 13-07-1993.pdf",
+            "token": "QVBCUWtzWkVvV0ZTQ19SQUNUOTMwMDM5ODEwMw",
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "Changement de commissaire aux comptes suppléant",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                },
+                {
+                    "type": "Divers",
+                    "decision": "Renouvellement de mandat de commissaire aux comptes titulaire",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "1992-07-10",
+            "date_depot_formate": "10/07/1992",
+            "disponible": false,
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "Nomination de représentant permanent",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                },
+                {
+                    "type": "Divers",
+                    "decision": "MODIFICATION ADMINISTRATION",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "1991-10-24",
+            "date_depot_formate": "24/10/1991",
+            "disponible": false,
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "Modification(s) statutaire(s)",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                },
+                {
+                    "type": "Divers",
+                    "decision": "Modification de limite d'âge",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "1989-07-26",
+            "date_depot_formate": "26/07/1989",
+            "disponible": false,
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "MODIFICATION ADMINISTRATION",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "1989-03-22",
+            "date_depot_formate": "22/03/1989",
+            "disponible": false,
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "TRAITE DE FUSION DEFINITIF",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                },
+                {
+                    "type": "Divers",
+                    "decision": "Augmentation du capital social",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                },
+                {
+                    "type": "Divers",
+                    "decision": "RAPPORT DU COMMISSAIRE AUX APPORTS ET A LA FUSION",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        },
+        {
+            "date_depot": "1989-02-15",
+            "date_depot_formate": "15/02/1989",
+            "disponible": false,
+            "actes": [
+                {
+                    "type": "Divers",
+                    "decision": "MODIFICATION ADMINISTRATION",
+                    "date_acte": null,
+                    "date_acte_formate": null
+                }
+            ]
+        }
+    ],
+    "comptes": [
+        {
+            "date_depot": "2006-07-20",
+            "date_depot_formate": "20/07/2006",
+            "date_cloture": "2005-12-31",
+            "annee_cloture": 2005,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2005-08-16",
+            "date_depot_formate": "16/08/2005",
+            "date_cloture": "2004-12-31",
+            "annee_cloture": 2004,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2004-07-23",
+            "date_depot_formate": "23/07/2004",
+            "date_cloture": "2003-12-31",
+            "annee_cloture": 2003,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2003-09-26",
+            "date_depot_formate": "26/09/2003",
+            "date_cloture": "2002-12-31",
+            "annee_cloture": 2002,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2002-09-25",
+            "date_depot_formate": "25/09/2002",
+            "date_cloture": "2001-12-31",
+            "annee_cloture": 2001,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2001-08-14",
+            "date_depot_formate": "14/08/2001",
+            "date_cloture": "2000-12-31",
+            "annee_cloture": 2000,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "2000-08-16",
+            "date_depot_formate": "16/08/2000",
+            "date_cloture": "1999-12-31",
+            "annee_cloture": 1999,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1999-07-20",
+            "date_depot_formate": "20/07/1999",
+            "date_cloture": "1998-12-31",
+            "annee_cloture": 1998,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1998-07-13",
+            "date_depot_formate": "13/07/1998",
+            "date_cloture": "1997-12-31",
+            "annee_cloture": 1997,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1997-07-08",
+            "date_depot_formate": "08/07/1997",
+            "date_cloture": "1996-12-31",
+            "annee_cloture": 1996,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1996-08-29",
+            "date_depot_formate": "29/08/1996",
+            "date_cloture": "1995-12-31",
+            "annee_cloture": 1995,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1995-08-08",
+            "date_depot_formate": "08/08/1995",
+            "date_cloture": "1994-12-31",
+            "annee_cloture": 1994,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1994-07-12",
+            "date_depot_formate": "12/07/1994",
+            "date_cloture": "1993-12-31",
+            "annee_cloture": 1993,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1993-07-16",
+            "date_depot_formate": "16/07/1993",
+            "date_cloture": "1992-12-31",
+            "annee_cloture": 1992,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1992-07-03",
+            "date_depot_formate": "03/07/1992",
+            "date_cloture": "1991-12-31",
+            "annee_cloture": 1991,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1991-08-13",
+            "date_depot_formate": "13/08/1991",
+            "date_cloture": "1990-12-31",
+            "annee_cloture": 1990,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1990-10-03",
+            "date_depot_formate": "03/10/1990",
+            "date_cloture": "1989-12-31",
+            "annee_cloture": 1989,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1988-09-23",
+            "date_depot_formate": "23/09/1988",
+            "date_cloture": "1987-12-31",
+            "annee_cloture": 1987,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1987-07-30",
+            "date_depot_formate": "30/07/1987",
+            "date_cloture": "1986-12-31",
+            "annee_cloture": 1986,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        },
+        {
+            "date_depot": "1986-06-30",
+            "date_depot_formate": "30/06/1986",
+            "date_cloture": "1985-12-31",
+            "annee_cloture": 1985,
+            "type_comptes": "CS",
+            "confdentialite": false,
+            "confidentialite_compte_de_resultat": false,
+            "disponible": false,
+            "disponible_xlsx": false,
+            "confidentialite": false
+        }
+    ],
+    "publications_bodacc": [
+        {
+            "numero_parution": "20240019",
+            "date": "2024-01-28",
+            "numero_annonce": "2055",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Président partant : Postic, Alain ; nomination du Président : FINANCIERE LOUIS",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 355659,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20210121",
+            "date": "2021-06-23",
+            "numero_annonce": "1645",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Président partant : FINANCIERE LOUIS ; nomination du Président : Postic, Alain",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 355659,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur le capital (augmentation) et l'administration"
+        },
+        {
+            "numero_parution": "20210106",
+            "date": "2021-06-02",
+            "numero_annonce": "2878",
+            "annonce_rectificative": false,
+            "bodacc": "A",
+            "type": "Procédure de conciliation",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "annulation_jugement": false,
+            "famille": "Extrait de jugement",
+            "nature": "Jugement d'homologation de l'accord",
+            "date_jugement": "2021-05-25",
+            "complement_jugement": "Jugement d'homologation de l'accord intervenu dans la procédure de conciliation. Le jugement est déposé au greffe où tout intéressé peut en prendre connaissance.",
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "activite": "Achat préparation et vente soit par consommation sur place soit par la livraison a domicile de tous produits alimentaires notamment de toutes sortes de pâtisseries de confiseries de glaces et de boissons de toute nature achat vente location de tous accessoires de table et matériel de réception exploitation de toutes salles et salons pour réunions soirées etc...",
+            "enseigne": null,
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": null,
+            "pseudonyme": null,
+            "nationnalite": null
+        },
+        {
+            "numero_parution": "20200225",
+            "date": "2020-11-19",
+            "numero_annonce": "3505",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Commissaire aux comptes titulaire partant : M.B.V. ET ASSOCIES ; nomination du Commissaire aux comptes titulaire : RSM PARIS ; Commissaire aux comptes suppléant partant : Georghiou, Jean-Christophe ; Commissaire aux comptes suppléant partant : FIDINTER",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20180111",
+            "date": "2018-06-13",
+            "numero_annonce": "1560",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Commissaire aux comptes titulaire partant : Thiebault, Olivier ; modification du Commissaire aux comptes titulaire M.B.V. ET ASSOCIES ; nomination du Commissaire aux comptes suppléant : FIDINTER",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20170109",
+            "date": "2017-06-09",
+            "numero_annonce": "2548",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Président partant : Jeantet, Franck,  nomination du Président : FINANCIERE LOUIS",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20140123",
+            "date": "2014-06-29",
+            "numero_annonce": "810",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Commissaire aux comptes titulaire partant : ADG INTERNATIONAL, nomination du Commissaire aux comptes titulaire : Thiebault, Olivier, Commissaire aux comptes suppléant partant : Boris, Etienne, Commissaire aux comptes suppléant partant : Duclos, Paul, nomination du Commissaire aux comptes suppléant : Georghiou, Jean-Christophe, nomination du Commissaire aux comptes suppléant : M.B.V. ET ASSOCIES",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20100107",
+            "date": "2010-06-04",
+            "numero_annonce": "880",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "Président partant : Raoul, Jean-Noel, nomination du Président : Jeantet, Franck",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20090163",
+            "date": "2009-08-26",
+            "numero_annonce": "3022",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société par actions simplifiée",
+            "nom": null,
+            "prenom": null,
+            "administration": "modification du Président Raoul, Jean-Noel, Président du conseil de surveillance partant : Pupin, Antoine, Membre du Directoire partant : Bontemps, Roland, Membre du Directoire partant : Biffi, Jean Pierre, Vice-Président et Membre du conseil de surveillance partant : Tranie, François, Membre du conseil de surveillance partant : Launay, Celine, Membre du conseil de surveillance partant : INTERNATIONAL PRESTIGE EVENTS représentée par VIGNERON, Antoine, Adresse : 3 rue Lebouteux 75017 Paris",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur la forme juridique et l'administration"
+        },
+        {
+            "numero_parution": "20090039",
+            "date": "2009-02-25",
+            "numero_annonce": "829",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société anonyme à directoire et conseil de surveillance",
+            "nom": null,
+            "prenom": null,
+            "administration": "Commissaire aux comptes titulaire partant : KPMG S.A, modification du Commissaire aux comptes titulaire ADG INTERNATIONAL, nomination du Commissaire aux comptes suppléant : Duclos, Paul.",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": null,
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20080143",
+            "date": "2008-08-13",
+            "numero_annonce": "1771",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de Paris",
+            "greffe": "Paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société anonyme",
+            "nom": null,
+            "prenom": null,
+            "administration": "Président du conseil d'administration partant : Wolfovski, Francois, nomination du Président du conseil d'administration : Pupin, Antoine, Administrateur partant : Houlot, Bernard, nomination de l'Administrateur : Tranie, François",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": "Achat préparation et vente soit par consommation sur place soit par la livraison a domicile de tous produits alimentaires notamment de toutes sortes pâtisseries de confiseries de glaces et de boissons de toute nature achat vente location de tous accessoires de table et matériel de réception exploitation de toutes salons cabarets ou théâtres organisation de tous spectacles réunions soirées etc",
+            "date_debut_activite": null,
+            "description": "modification survenue sur l'administration"
+        },
+        {
+            "numero_parution": "20080133",
+            "date": "2008-07-30",
+            "numero_annonce": "1198",
+            "annonce_rectificative": false,
+            "bodacc": "B",
+            "type": "Modification",
+            "rcs": "de paris",
+            "greffe": "paris",
+            "nom_entreprise": "POTEL ET CHABOT",
+            "personne_morale": true,
+            "sigle": null,
+            "denomination": "POTEL ET CHABOT",
+            "nom_commercial": null,
+            "forme_juridique": "Société anonyme à directoire et conseil de surveillance",
+            "nom": null,
+            "prenom": null,
+            "administration": "modification du Président du Directoire Raoul, Jean-Noel, modification du Président du conseil de surveillance Pupin, Antoine, nomination du Membre du Directoire : Bontemps, Roland, nomination du Membre du Directoire : Biffi, Jean Pierre, modification du Vice-Président et Membre du conseil de surveillance Tranie, François, nomination du Membre du conseil de surveillance : Launay, Celine, nomination du Membre du conseil de surveillance : INTERNATIONAL PRESTIGE EVENTS représentée par VIGNERON, Antoine, Adresse : 3 rue Lebouteux 75017 Paris, Administrateur partant : BONGRAIN GASTRONOMIE représentée par VIGNERON, Antoine, Adresse : 3 rue Lebouteux 75017 Paris, modification du Commissaire aux comptes titulaire PRI, nomination du Commissaire aux comptes suppléant : Boris, Etienne, nomination du Commissaire aux comptes suppléant : ADG INTERNATIONAL",
+            "pseudonyme": null,
+            "nationnalite": null,
+            "adresse": "3 rue de Chaillot 75016 Paris",
+            "capital": 338235,
+            "devise_capital": "EUR",
+            "activite": "Achat préparation et vente soit par consommation sur place soit par la livraison a domicile de tous produits alimentaires notamment de toutes sortes pâtisseries de confiseries de glaces et de boissons de toute nature achat vente location de tous accessoires de table et matériel de réception exploitation de toutes salons cabarets ou théâtres organisation de tous spectacles réunions soirées etc",
+            "date_debut_activite": null,
+            "description": "modification survenue sur la forme juridique et l'administration"
+        }
+    ],
+    "procedures_collectives": [],
+    "procedure_collective_existe": false,
+    "procedure_collective_en_cours": false,
+    "derniers_statuts": {
+        "date_depot": "2022-08-04",
+        "date_depot_formate": "04/08/2022",
+        "disponible": true,
+        "nom_fichier_pdf": "POTEL ET CHABOT S A - Actes du 04-08-2022.pdf",
+        "token": "QWdVVDc5NnZHUzUxeF9DMDAyMkExMDAxTDI1NTYwN0QyMDIyMDgwOUgxODIzMDlUUElKVEVTMDAzUERCT1I",
+        "type": "Statuts mis à jour",
+        "decision": null,
+        "date_acte": "2022-07-28",
+        "date_acte_formate": "28/07/2022"
+    },
+    "extrait_immatriculation": {
+        "token": "SzU1MjA0Mzc1NA"
+    },
+    "association": null
+}
